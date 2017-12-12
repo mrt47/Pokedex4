@@ -1,5 +1,4 @@
 # Pokedex4
-An awesome app!!
 
 API'den Json okuma yapıldı.
 
